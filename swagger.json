@@ -11,8 +11,8 @@
       "description": ""
     },
     {
-      "url": "http://localhost:3000",
-      "description": "localhost"
+      "url": "https://whatsapp-api-pg6k.onrender.com/",
+      "description": "servidor"
     }
   ],
   "tags": [
